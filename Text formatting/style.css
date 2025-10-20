@@ -1,0 +1,68 @@
+h2 {
+  text-align: center;
+  color: #fafbfc;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+h1 {
+     text-align: justify;
+  color: #f108b7;
+  text-shadow: 2px 2px 5px rgba(5, 248, 98, 0.3);
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+
+
+.text-kiri {
+    text-align: justify;
+}
+
+.text-kanan {
+    text-align: justify;
+}
+.text-tengah {
+    text-align: justify;
+}
+.text-rata {
+    text-align: justify;
+}
+.menyala {
+    color: red;
+    font-weight: bold;
+    font-style:  inherit;
+}
+.button-save {
+    text-decoration: none;
+    background: darkblue;
+    color: white;
+    padding: 6px 10px;
+}
+
+.coret{
+    text-decoration: line-through;
+}
+.text-rendah {
+    line-height: normal;
+    background-color: crimson;
+    color: white;
+    padding: 4px;
+}
+.text-tinggi {
+    line-height: 1,5;
+    letter-spacing: -2px;
+    background-color: brown;
+    padding: 4px;
+}
+.text-rapat {
+    letter-spacing: 2px;
+    color: chocolate;
+    padding: 4px;
+}
+.text-longgar {
+    color: chartreuse;
+    background-color: rgb(12, 12, 12);
+    text-shadow: 0cqmax;
+    font-weight: bold;
+}
+
